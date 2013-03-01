@@ -1,0 +1,12 @@
+{
+	"name": "TumblrTicklr",
+	"description": "Post one line from a file to Tumblr every day",
+	"version": "0.0.1",
+	"main": "tumblrticklr.js",
+	"dependencies": {
+		"coffee-script": ">= 1.5.0",
+		"ntumblr": ">= 0.0.1",
+		"underscore": ">= 0.0.1"
+	}
+}
+
